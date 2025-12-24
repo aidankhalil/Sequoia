@@ -1,6 +1,6 @@
 # Algorithm Engineering – Sequoia Tree Adaptive Structure
 
-**Duration:** Mar 2023
+**Duration:** (1 wk) Mar 2023
 
 ## Overview
 Built a dynamically balancing binary tree with tallness constraints, recursive height updates, and intelligent left/right rotation logic triggered on insertion.
